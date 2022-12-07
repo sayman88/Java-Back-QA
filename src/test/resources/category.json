@@ -1,0 +1,216 @@
+{
+  "id": 2,
+  "title": "Electronic",
+  "products": [
+    {
+      "id": 175,
+      "title": "Tablet",
+      "price": 2942,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 176,
+      "title": "Photo_camera",
+      "price": 8424,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 211,
+      "title": "NEW-TV",
+      "price": 13000,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 187,
+      "title": "Vacuum cleaner Bosh ZAS5000",
+      "price": 88880,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 188,
+      "title": "Vacuum cleaner Bosh",
+      "price": 88880,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 189,
+      "title": "Siemens wash 2q3",
+      "price": 12900,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 193,
+      "title": "NEW-TV",
+      "price": 13000,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 194,
+      "title": "Siemens wash 2q3",
+      "price": 12900,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 115,
+      "title": "Vacuum cleaner Bosh MX30",
+      "price": 23000,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 116,
+      "title": "Vacuum cleaner Bosh JX500",
+      "price": 12500,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 117,
+      "title": "Vacuum cleaner Bosh ZAS3000",
+      "price": 17300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 118,
+      "title": "Vacuum cleaner Bosh ZAS3000",
+      "price": 17300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 119,
+      "title": "Vacuum cleaner Bosh ZAS7000",
+      "price": 19200,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 120,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 121,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 122,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 123,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 124,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 125,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 126,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 127,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 87,
+      "title": "Tablet",
+      "price": 1010,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 197,
+      "title": "Siemens wash 2q3",
+      "price": 12900,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 4,
+      "title": "Samsung Watch X1000",
+      "price": 20700,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 198,
+      "title": "Vacuum cleaner Bosh ZAS3000",
+      "price": 12500,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 128,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 129,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 130,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 131,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 199,
+      "title": "Vacuum cleaner Bosh ZAS3000",
+      "price": 12500,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 134,
+      "title": "Vacuum cleaner Bosh ZAS3000",
+      "price": 12500,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 135,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 136,
+      "title": "Vacuum cleaner Bosh ZAS8000",
+      "price": 19300,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 248,
+      "title": "NEW-TV",
+      "price": 13000,
+      "categoryTitle": "Electronic"
+    },
+    {
+      "id": 453,
+      "title": "Recorder",
+      "price": 2500,
+      "categoryTitle": "Electronic"
+    }
+  ]
+}
